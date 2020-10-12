@@ -6,7 +6,9 @@
 [![GitHub Stats][github-stats-img]][github-stats-link]
 [![Top Langs][github-langs-img]][github-stats-link]
 
-[![GitHub Summary][github-summary2-img]][github-summary2-link]
+<p align="center">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src=https://raw.githubusercontent.com/RafhaanShah/RafhaanShah/main/profile-summary-card-output/monokai/0-profile-details.svg
+</p>
 
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
 [github-stats-img]: https://github-readme-stats.vercel.app/api?username=RafhaanShah&count_private=true&show_icons=true&line_height=40&custom_title=GitHub%20Stats&title_color=fff&text_color=9f9f9f&icon_color=fb8c00&bg_color=151515
