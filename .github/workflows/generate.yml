@@ -1,0 +1,21 @@
+# This workflow will generate GitHub Profile Summary Cards in the profile-summary-card-output folder
+# For more information see: https://github.com/vn7n24fzkq/github-profile-summary-cards
+
+name: GitHub Profile Summary Cards
+
+on:
+  workflow_dispatch:
+  schedule: # execute every Friday
+    - cron: "0 0 * * 5"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
