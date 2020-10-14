@@ -1,4 +1,4 @@
-### Hi there! 👋 
+### Hi there! <img src="https://i.imgur.com/LwNcfR0.gif" width="24px">
 
 [![GitHub Summary][github-summary-img]][github-summary-link]
 [![Coder Stats][coder-stats-img]][coder-stats-link]
