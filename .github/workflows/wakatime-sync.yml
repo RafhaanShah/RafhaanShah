@@ -1,5 +1,6 @@
 # This workflow will update a gist with data from WakaTime
 # For more information see: https://github.com/superman66/wakatime-sync
+# Viewable at: https://wakatime.chenhuichao.com/dashboard
 name: Waka Gist
 on:
   workflow_dispatch:
