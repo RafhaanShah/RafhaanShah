@@ -8,6 +8,9 @@
 
 [![GitHub Summary][github-summary2-img]][github-summary2-link]
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
 [github-stats-img]: https://github-readme-stats.vercel.app/api?username=RafhaanShah&count_private=true&show_icons=true&line_height=40&custom_title=GitHub%20Stats&title_color=fff&text_color=9f9f9f&icon_color=fb8c00&bg_color=151515
 [github-langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaanShah&&title_color=fff&text_color=9f9f9f&bg_color=151515
