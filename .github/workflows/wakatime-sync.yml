@@ -1,0 +1,19 @@
+# This workflow will update a gist with data from WakaTime
+# For more information see: https://github.com/superman66/wakatime-sync
+name: Waka Gist
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: superman66/wakatime-sync@master
+        env:
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GIST_ID: ${{ secrets.WAKATIME_GIST_ID}}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
