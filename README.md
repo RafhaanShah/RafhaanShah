@@ -9,6 +9,19 @@
 [![GitHub Summary][github-summary2-img]][github-summary2-link]
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     10 hrs 58 mins      ███████████████████████░░   92.29% 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
