@@ -1,12 +1,24 @@
+
 ### Hi there! <img src="https://i.imgur.com/LwNcfR0.gif" width="24px">
 
 [![GitHub Summary][github-summary-img]][github-summary-link]
 [![Coder Stats][coder-stats-img]][coder-stats-link]
 
+Some of my projects:
+- [grAfterburner](https://github.com/RafhaanShah/grAfterburner)
+- [Container-Mon](https://github.com/RafhaanShah/Container-Mon)
+- [Net-Mon](https://github.com/RafhaanShah/Net-Mon)
+- [Reddit-Post-Notifier](https://github.com/RafhaanShah/Reddit-Post-Notifier)
+
+Android:
+- [Mini-Weather](https://github.com/RafhaanShah/Mini-Weather)
+- [Earth-View for Muzei](https://github.com/RafhaanShah/Earth-View-Muzei)
+- [Simple Notes](https://github.com/RafhaanShah/Simple-Notes)
+- [Study Assistant](https://github.com/RafhaanShah/Study-Assistant)
+
+
 [![GitHub Stats][github-stats-img]][github-stats-link]
 [![Top Langs][github-langs-img]][github-stats-link]
-
-[![GitHub Summary][github-summary2-img]][github-summary2-link]
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
