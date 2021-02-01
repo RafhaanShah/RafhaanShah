@@ -5,17 +5,17 @@
 [![Coder Stats][coder-stats-img]][coder-stats-link]
 
 Some of my projects:
-- [grAfterburner](https://github.com/RafhaanShah/grAfterburner)
-- [Container-Mon](https://github.com/RafhaanShah/Container-Mon)
-- [Net-Mon](https://github.com/RafhaanShah/Net-Mon)
-- [Reddit-Post-Notifier](https://github.com/RafhaanShah/Reddit-Post-Notifier)
+- [grAfterburner](https://github.com/RafhaanShah/grAfterburner) ![][docker]
+- [Container-Mon](https://github.com/RafhaanShah/Container-Mon) ![][go]
+- [Net-Mon](https://github.com/RafhaanShah/Net-Mon) ![][python]
+- [Reddit-Post-Notifier](https://github.com/RafhaanShah/Reddit-Post-Notifier) ![][python]
 
 Android:
-- [Mini-Weather](https://github.com/RafhaanShah/Mini-Weather)
-- [Earth-View for Muzei](https://github.com/RafhaanShah/Earth-View-Muzei)
-- [Simple Notes](https://github.com/RafhaanShah/Simple-Notes)
-- [Study Assistant](https://github.com/RafhaanShah/Study-Assistant)
-
+- [Mini-Weather](https://github.com/RafhaanShah/Mini-Weather) ![][kotlin]
+- [Navigation Samples](https://github.com/RafhaanShah/Android-Navigation-Samples) ![][kotlin]
+- [Earth-View for Muzei](https://github.com/RafhaanShah/Earth-View-Muzei) ![][kotlin]
+- [Simple Notes](https://github.com/RafhaanShah/Simple-Notes) ![][java]
+- [Study Assistant](https://github.com/RafhaanShah/Study-Assistant) ![][java]
 
 [![GitHub Stats][github-stats-img]][github-stats-link]
 [![Top Langs][github-langs-img]][github-stats-link]
@@ -45,3 +45,9 @@ Docker                   32 mins             ░░░░░░░░░░░�
 [github-summary2-link]: https://github.com/vn7n24fzkq/github-profile-summary-cards
 [coder-stats-link]: https://coderstats.net/github/#RafhaanShah
 [coder-stats-img]: https://img.shields.io/badge/-Coder%20Stats-03a9f4.svg?labelColor=ffffff&logo=codeforces
+
+[java]: https://img.shields.io/badge/-Java-E51F24?style=flat&logo=java
+[kotlin]: https://img.shields.io/badge/-Kotlin-E87941?style=flat&logo=kotlin
+[python]: https://img.shields.io/badge/-Python-F6CD31?style=flat&logo=python
+[go]: https://img.shields.io/badge/-Go-ffffff?style=flat&logo=go
+[docker]: https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker
