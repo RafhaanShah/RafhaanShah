@@ -20,23 +20,6 @@ Android:
 [![GitHub Stats][github-stats-img]][github-stats-link]
 [![Top Langs][github-langs-img]][github-stats-link]
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   13 hrs 39 mins      ████████████████████░░░░░   83.34% 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.4% 
-XML                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
-Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
-Java                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
-
-```
-
-
- Last Updated on 10/07/2021
-<!--END_SECTION:waka-->
-
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
 [github-stats-img]: https://github-readme-stats.vercel.app/api?username=RafhaanShah&count_private=true&show_icons=true&line_height=40&custom_title=GitHub%20Stats&title_color=fff&text_color=9f9f9f&icon_color=fb8c00&bg_color=151515
 [github-langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaanShah&&title_color=fff&text_color=9f9f9f&bg_color=151515
