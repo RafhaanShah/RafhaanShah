@@ -21,8 +21,8 @@ Android:
 [![Top Langs][github-langs-img]][github-stats-link]
 
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
-[github-stats-img]: https://github-readme-stats.vercel.app/api?username=RafhaanShah&count_private=true&show_icons=true&line_height=40&custom_title=GitHub%20Stats&title_color=fff&text_color=9f9f9f&icon_color=fb8c00&bg_color=151515
-[github-langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaanShah&&title_color=fff&text_color=9f9f9f&bg_color=151515
+[github-stats-img]: https://github-readme-stats.vercel.app/api?username=RafhaanShah&count_private=true&show_icons=true&hide_rank=true&line_height=40&custom_title=GitHub%20Stats&title_color=fff&text_color=9f9f9f&icon_color=fb8c00&bg_color=151515
+[github-langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaanShah&hide=SCSS,CSS&title_color=fff&text_color=9f9f9f&bg_color=151515
 [github-summary-img]: https://img.shields.io/badge/-GitHub%20Summary-fb8c00.svg?logo=github&labelColor=151515
 [github-summary-link]: https://profile-summary-for-github.com/user/RafhaanShah
 [github-summary2-img]: https://raw.githubusercontent.com/RafhaanShah/RafhaanShah/main/profile-summary-card-output/monokai/0-profile-details.svg
