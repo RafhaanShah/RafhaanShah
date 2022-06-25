@@ -19,6 +19,7 @@ Android:
 
 [![GitHub Stats][github-stats-img]][github-stats-link]
 [![Top Langs][github-langs-img]][github-stats-link]
+[![GitHub Streak][github-streak-img]][github-streak-link]
 
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
 [github-stats-img]: https://github-readme-stats.vercel.app/api?username=RafhaanShah&count_private=true&show_icons=true&hide_rank=true&line_height=40&custom_title=GitHub%20Stats&title_color=fff&text_color=9f9f9f&icon_color=fb8c00&bg_color=151515
@@ -29,6 +30,8 @@ Android:
 [github-summary2-link]: https://github.com/vn7n24fzkq/github-profile-summary-cards
 [coder-stats-link]: https://coderstats.net/github/#RafhaanShah
 [coder-stats-img]: https://img.shields.io/badge/-Coder%20Stats-03a9f4.svg?labelColor=ffffff&logo=codeforces
+[github-streak-link]: https://github.com/DenverCoder1/github-readme-streak-stats
+[github-streak-img]: http://github-readme-streak-stats.herokuapp.com?user=RafhaanShah&theme=dark&date_format=j%20M%5B%20Y%5D
 
 [java]: https://img.shields.io/badge/-Java-E51F24?style=flat&logo=java
 [kotlin]: https://img.shields.io/badge/-Kotlin-E87941?style=flat&logo=kotlin
