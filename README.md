@@ -12,6 +12,7 @@ Some of my projects:
 - [JustHighlights](https://github.com/RafhaanShah/JustHighlights) ![][javascript]
 
 Android:
+- [Tasker Health Connect](https://github.com/RafhaanShah/TaskerHealthConnect) ![][kotlin]
 - [Mini-Weather](https://github.com/RafhaanShah/Mini-Weather) ![][kotlin]
 - [Navigation Samples](https://github.com/RafhaanShah/Android-Navigation-Samples) ![][kotlin]
 - [Earth-View for Muzei](https://github.com/RafhaanShah/Earth-View-Muzei) ![][kotlin]
