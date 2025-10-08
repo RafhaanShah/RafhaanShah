@@ -9,6 +9,7 @@ Some of my projects:
 - [Container-Mon](https://github.com/RafhaanShah/Container-Mon) ![][go]
 - [Net-Mon](https://github.com/RafhaanShah/Net-Mon) ![][python]
 - [Reddit-Post-Notifier](https://github.com/RafhaanShah/Reddit-Post-Notifier) ![][python]
+- [Cloudflare-Email-RSS](https://github.com/RafhaanShah/Cloudflare-Email-RSS) ![][typescript]
 - [JustHighlights](https://github.com/RafhaanShah/JustHighlights) ![][javascript]
 
 Android:
@@ -41,3 +42,4 @@ Android:
 [go]: https://img.shields.io/badge/-Go-ffffff?style=flat&logo=go
 [docker]: https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker
 [javascript]: https://img.shields.io/badge/-Javascript-ffffff?style=flat&logo=javascript
+[typescript]: https://img.shields.io/badge/-Javascript-ffffff?style=flat&logo=typescript
