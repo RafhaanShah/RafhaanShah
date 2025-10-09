@@ -41,5 +41,5 @@ Android:
 [python]: https://img.shields.io/badge/-Python-F6CD31?style=flat&logo=python
 [go]: https://img.shields.io/badge/-Go-ffffff?style=flat&logo=go
 [docker]: https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker
-[javascript]: https://img.shields.io/badge/-Javascript-ffffff?style=flat&logo=javascript
-[typescript]: https://img.shields.io/badge/-Javascript-ffffff?style=flat&logo=typescript
+[javascript]: https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript
+[typescript]: https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript
