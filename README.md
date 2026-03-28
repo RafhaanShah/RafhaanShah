@@ -10,7 +10,7 @@ Some of my projects:
 - [Net-Mon](https://github.com/RafhaanShah/Net-Mon) ![][python]
 - [Reddit-Post-Notifier](https://github.com/RafhaanShah/Reddit-Post-Notifier) ![][python]
 - [Cloudflare-Email-RSS](https://github.com/RafhaanShah/Cloudflare-Email-RSS) ![][typescript]
-- [JustHighlights](https://github.com/RafhaanShah/JustHighlights) ![][javascript]
+- [PushChrome](https://github.com/RafhaanShah/PushChrome) ![][javascript]
 
 Android:
 - [Tasker Health Connect](https://github.com/RafhaanShah/TaskerHealthConnect) ![][kotlin]
