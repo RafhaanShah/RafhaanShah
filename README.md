@@ -14,7 +14,7 @@ Some of my projects:
 
 Android:
 - [Tasker Health Connect](https://github.com/RafhaanShah/TaskerHealthConnect) ![][kotlin]
-- [Mini-Weather](https://github.com/RafhaanShah/Mini-Weather) ![][kotlin]
+- [IpackMaterialIcons](https://github.com/RafhaanShah/IpackMaterialIcons) ![][kotlin]
 - [Navigation Samples](https://github.com/RafhaanShah/Android-Navigation-Samples) ![][kotlin]
 - [Earth-View for Muzei](https://github.com/RafhaanShah/Earth-View-Muzei) ![][kotlin]
 - [Simple Notes](https://github.com/RafhaanShah/Simple-Notes) ![][java]
