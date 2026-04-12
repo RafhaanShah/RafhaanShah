@@ -17,6 +17,11 @@ Android:
 - [Simple-Notes][Simple-Notes-repo] ![][Simple-Notes-stars] ![][java]
 - [Study-Assistant][Study-Assistant-repo] ![][Study-Assistant-stars] ![][java]
 
+[![](./profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 [java]: https://img.shields.io/badge/-Java-E51F24?style=flat&logo=java
 [kotlin]: https://img.shields.io/badge/-Kotlin-E87941?style=flat&logo=kotlin
 [python]: https://img.shields.io/badge/-Python-F6CD31?style=flat&logo=python
