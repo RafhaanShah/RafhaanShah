@@ -1,10 +1,11 @@
-# https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-name: Update README cards
+# https://github.com/anuraghazra/github-readme-stats
+
+name: Update Stats Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 5"
 
 jobs:
   build:
